@@ -1,2 +1,5 @@
 # Instafinder
-Instagram Osin Finder
+Instagram Osint Finder
+
+
+git clone https://github.com/coyotikon/Instafinder
